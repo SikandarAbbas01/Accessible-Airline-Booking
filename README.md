@@ -2,12 +2,6 @@
 
 An interactive, single-file web app for learning and practicing **WCAG 2.1 AA** accessibility testing. It is themed around an airline booking flow, so every widget (tabs, dialog, menu, form, buttons) feels like something you would actually find on a flight booking site.
 
-No frameworks, no build step, no dependencies. Just open `index.html` in a browser.
-
-![Gate 11 screenshot](screenshot.png)
-
-**Live demo:** https://your-username.github.io/your-repo-name/
-
 ---
 
 ## Features
