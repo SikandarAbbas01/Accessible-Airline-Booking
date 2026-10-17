@@ -122,5 +122,5 @@ Contributions are welcome.
 This project is licensed under the MIT License.
 
 ## Author
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**Sikandar Abbas**
+GitHub: [@SikandarAbbas01](https://github.com/your-username)
